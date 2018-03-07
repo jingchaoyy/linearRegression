@@ -9,7 +9,7 @@ linearRegression.py plots the values of H13 and H0 for all data points. Describe
 multiLinaerRegression.py uses a linear regression model to describe the correlation between H13 and all regressors H0 – H12. To model the relationship between a dependent variable H13 and all dependent variables H0, ..., H12, import and use the LinearRegression model from sklearn.linear_model.
 <br>
 <br>
-Data Set:
+Data Set:<br>
 The Boston Housing Dataset (http://archive.ics.uci.edu/ml/machine-learning-databases/housing)
 contains information about 506 instances of suburbs in the region around Boston. The datasets
 contains the following 14 attributes, out of which 12 are metric, one is ordinal and one is
