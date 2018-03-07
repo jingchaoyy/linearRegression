@@ -1,8 +1,8 @@
 # linearRegression
 Simple example for linear regression and multi-linear regression
-
+\n
 linearRegression.py plots the values of H13 and H0 for all data points. Described the correlation between H13 and H0 using a linear regression model.
-
+\n
 multiLinaerRegression.py uses a linear regression model to describe the correlation between H13 and all regressors H0 – H12. To model the relationship between a dependent variable H13 and all dependent variables H0, ..., H12, import and use the LinearRegression model from sklearn.linear_model.
 
 
